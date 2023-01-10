@@ -1,2 +1,2 @@
 # ms-synthese
-formation creation projet gestion de stock 
+Formation creation projet gestion de stock 
